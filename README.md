@@ -27,14 +27,4 @@ computer engineering, become familiar with the different aspects of the design p
 in teams to solve challenging design problems. On completing the course, students should have a better
 idea of the engineering profession as well as an understanding of why a particular academic background is
 needed.
-</br>
-</br>
-Course pre-requisites include a college level background in mechanics (PHYS 131 or equivalent), ECE
-courses 200 (Fundamentals of Electrical Engineering) and 202 (Introduction to Software Development).
-For students initially registered in the previous program, COMP 202 may suffice in place of ECSE 202. In
-addition to class lectures, online tutorials will provide supplemental material on design tools and
-development using the EV3 kits and software. Students will have access to the laboratory on a 24-hour
-basis (e.g. to prepare and debug designs), but demonstrations must be performed according to an assigned
-schedule. Students will be assigned to groups of 2 for the first part of the course and allowed to sign up for
-2 two-hour blocks from Monday to Friday, tentatively, between 12:35-5:25 pm. Demonstrators will be
-available during these times to provide support and mark laboratory demonstrations.
+
